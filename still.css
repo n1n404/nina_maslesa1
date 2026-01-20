@@ -23,7 +23,7 @@ h1, h2 {
 
 span {color: rgb(255, 0, 255);}
 .pozadina{
-	background-image: url("slike/merk.png");
+	background-image: url("merk.png");
 }
 .drugapozadina {
 	background-color: darkgray;
@@ -40,4 +40,5 @@ a:hover {
 }
 img {
 	height: 200px;
+
 }
